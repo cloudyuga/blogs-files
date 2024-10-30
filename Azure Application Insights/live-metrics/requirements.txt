@@ -1,0 +1,4 @@
+psutil 
+opentelemetry-instrumentation-flask 
+pentelemetry-instrumentation-requests
+azure-monitor-opentelemetry
